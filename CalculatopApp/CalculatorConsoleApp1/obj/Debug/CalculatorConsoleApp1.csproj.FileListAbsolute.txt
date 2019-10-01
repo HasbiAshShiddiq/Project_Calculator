@@ -1,0 +1,9 @@
+C:\Users\ASUS\Documents\Kuliah Amikom\PEMLAN\Tugas 1\CalculatopApp\CalculatorConsoleApp1\bin\Debug\CalculatorConsoleApp1.exe.config
+C:\Users\ASUS\Documents\Kuliah Amikom\PEMLAN\Tugas 1\CalculatopApp\CalculatorConsoleApp1\bin\Debug\CalculatorConsoleApp1.exe
+C:\Users\ASUS\Documents\Kuliah Amikom\PEMLAN\Tugas 1\CalculatopApp\CalculatorConsoleApp1\bin\Debug\CalculatorConsoleApp1.pdb
+C:\Users\ASUS\Documents\Kuliah Amikom\PEMLAN\Tugas 1\CalculatopApp\CalculatorConsoleApp1\obj\Debug\CalculatorConsoleApp1.csprojAssemblyReference.cache
+C:\Users\ASUS\Documents\Kuliah Amikom\PEMLAN\Tugas 1\CalculatopApp\CalculatorConsoleApp1\obj\Debug\CalculatorConsoleApp1.exe
+C:\Users\ASUS\Documents\Kuliah Amikom\PEMLAN\Tugas 1\CalculatopApp\CalculatorConsoleApp1\obj\Debug\CalculatorConsoleApp1.pdb
+C:\Users\ASUS\Documents\Kuliah Amikom\PEMLAN\Tugas 1\CalculatopApp\CalculatorConsoleApp1\bin\Debug\CalculatorClassLibrary1.dll
+C:\Users\ASUS\Documents\Kuliah Amikom\PEMLAN\Tugas 1\CalculatopApp\CalculatorConsoleApp1\bin\Debug\CalculatorClassLibrary1.pdb
+C:\Users\ASUS\Documents\Kuliah Amikom\PEMLAN\Tugas 1\CalculatopApp\CalculatorConsoleApp1\obj\Debug\CalculatorConsoleApp1.csproj.CopyComplete

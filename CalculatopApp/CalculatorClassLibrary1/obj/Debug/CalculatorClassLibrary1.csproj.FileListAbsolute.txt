@@ -1,0 +1,5 @@
+C:\Users\ASUS\Documents\Kuliah Amikom\PEMLAN\Tugas 1\CalculatopApp\CalculatorClassLibrary1\bin\Debug\CalculatorClassLibrary1.dll
+C:\Users\ASUS\Documents\Kuliah Amikom\PEMLAN\Tugas 1\CalculatopApp\CalculatorClassLibrary1\bin\Debug\CalculatorClassLibrary1.pdb
+C:\Users\ASUS\Documents\Kuliah Amikom\PEMLAN\Tugas 1\CalculatopApp\CalculatorClassLibrary1\obj\Debug\CalculatorClassLibrary1.csprojAssemblyReference.cache
+C:\Users\ASUS\Documents\Kuliah Amikom\PEMLAN\Tugas 1\CalculatopApp\CalculatorClassLibrary1\obj\Debug\CalculatorClassLibrary1.dll
+C:\Users\ASUS\Documents\Kuliah Amikom\PEMLAN\Tugas 1\CalculatopApp\CalculatorClassLibrary1\obj\Debug\CalculatorClassLibrary1.pdb
